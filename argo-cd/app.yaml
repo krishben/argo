@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/krishben/argo.git
-    targetRevision: master
+    targetRevision: HEAD
     path: argo/example-app
     directory:
       recurse: true
